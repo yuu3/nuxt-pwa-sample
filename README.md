@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # nuxt-pwa-app
 
 > My praiseworthy Nuxt.js project
@@ -25,3 +26,7 @@ For detailed explanation on how things work, checkout [Nuxt.js docs](https://nux
 # nuxt-pwa-sample
  Try PWA with Nuxt
 >>>>>>> origin/master
+=======
+# nuxt-pwa-sample
+ Try PWA with Nuxt
+>>>>>>> 384b9398bba918e705c46997aea88aee22a64b85
