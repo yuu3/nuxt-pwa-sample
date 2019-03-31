@@ -1,0 +1,24 @@
+html{
+    width: 100%;
+    height: 100%;
+	color: #FFF;
+	font-size: 0.9rem;
+    line-height: 1.4;
+    overflow: hidden;
+    user-select: auto;
+}
+body{
+    width: 100%;
+    height: 100%;
+	font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    transition: .4s;
+    user-select: none;
+}
+.wrap{
+    width: 100%;
+
+    & .container{
+        width: calc(100% - 300px);
+        margin-left: 300px;
+    }
+}
