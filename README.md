@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # nuxt-pwa-app
 
 > My praiseworthy Nuxt.js project
@@ -20,3 +21,7 @@ $ yarn run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+=======
+# nuxt-pwa-sample
+ Try PWA with Nuxt
+>>>>>>> origin/master
